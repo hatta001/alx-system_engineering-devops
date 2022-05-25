@@ -1,1 +1,1 @@
-Second readme
+Shell, basics
