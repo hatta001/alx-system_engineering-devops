@@ -1,2 +1,2 @@
-#!/bin/bash
-if owner == guillaume. chown hello betty
+#!/bin/bash 
+chown --from=guillaume betty hello
